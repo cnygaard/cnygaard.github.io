@@ -1,7 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master # Branch to update (optional; defaults to master)
   auth_endpoint: auth
+  repo: cnygaard/cnygaard.github.io
 
 # These lines should *not* be indented
 media_folder: "/" # Media files will be stored in the repo under /
