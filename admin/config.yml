@@ -5,8 +5,8 @@ backend:
   repo: cnygaard/cnygaard.github.io
 
 # These lines should *not* be indented
-media_folder: "/" # Media files will be stored in the repo under /
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "assets/uploads" # Media files will be stored in the repo under /
+
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
