@@ -12,9 +12,9 @@ It is based on code from Kaggle a S curve Sigmoid function https://en.wikipedia.
 
 ![S-curve](/assets/uploads/sweden-sigmoidscreenshot-from-2020-05-26-23-41-21.png "S-curve")
 
-2019-05-27
+2019-05-28
 
-Curve is not converging. Prediction 37211. It is constantly showing lower numbers than really are for each day. Disclaimer: This is just a hobby prediction by a non professional in this field do not take it seriously. Need to fit Auto Arima function.
+Curve is not converging. Prediction 37211 based on 2019-05-27 data. It is constantly showing lower numbers than really are for each new day. Disclaimer: This is just a hobby prediction by a non professional in this field do not take it seriously. Need to fit Auto Arima function.
 
 You can also look at New York times Country Maps
 
