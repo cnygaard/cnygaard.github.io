@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Christian Nygaards personal blog. 
+Christian Nygaards this is my personal tech blog. 
+I am an certified AWS Solutions architect. 
