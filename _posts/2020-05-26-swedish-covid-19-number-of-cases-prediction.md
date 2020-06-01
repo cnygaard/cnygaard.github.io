@@ -20,6 +20,16 @@ You can also look at New York times Country Maps
 
 <https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html>
 
-
-
 ![2019-05-27](/assets/uploads/covidscreenshot-from-2020-05-28-21-49-36.png "S-curve 2019-05-27")
+
+2019-06-01
+
+Arima prediction from https://alkaline-ml.com/pmdarima. This builds on others work from Kaggle
+
+2019-06-01 37652
+
+2019-06-02 38182 
+
+2019-06-03 38800 
+
+2019-06-04 39539
