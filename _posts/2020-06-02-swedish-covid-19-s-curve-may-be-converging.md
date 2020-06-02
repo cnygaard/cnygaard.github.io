@@ -8,4 +8,4 @@ Disclaimer I am not an health professional nor am I trained in making these kind
 
 I think that the Swedish Covid-19 S-curve may finally be converging. Graphically it looks like the orange upper
 
-path of the curve is finally moving in the right direction.
+path of the curve is finally moving in the right direction. Latest who.int data was 272 cases for 2019-06-02 which is not included in the plot.
