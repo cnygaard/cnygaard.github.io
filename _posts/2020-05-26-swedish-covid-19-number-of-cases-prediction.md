@@ -4,6 +4,12 @@ title: Swedish Covid 19 number of cases prediction
 date: 2020-05-26T22:21:21.300Z
 thumbnail: /assets/uploads/sweden-sigmoidscreenshot-from-2020-05-26-23-41-21.png
 ---
+Disclaimer: This is just a hobby prediction I am not a professional in these matters and not trained in health care. Data should be taken with a grain of salt.
+
+S-curve Plots are based on a fork of D Ferhadi https://www.kaggle.com/dferhadi/covid-19-predictions-growth-factor-and-calculus
+
+
+
 2019-05-27
 
 Swedish Covid 19 predition about 36400 cases. This function has been constantly underfitting the data. 
@@ -33,3 +39,11 @@ Arima prediction from https://alkaline-ml.com/pmdarima. This builds on others wo
 2019-06-03 38800 
 
 2019-06-04 39539
+
+\---
+
+2019-06-02
+
+Sweden Plot
+
+![2019-06-02 sweden](/assets/uploads/sweden-covid-19-2020-06-02.png)
