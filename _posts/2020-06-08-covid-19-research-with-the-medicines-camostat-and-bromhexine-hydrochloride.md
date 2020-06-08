@@ -4,9 +4,9 @@ title: Covid 19 research with the medicines Camostat and Bromhexine hydrochlorid
 date: 2020-06-08T18:25:10.036Z
 thumbnail: /assets/uploads/bromhexine-plainsvg.svg.png
 ---
-Articles on Camostat and Bromhexine hydrocloride Bisolvon in regards to Covid 19
+Disclaimer I do not have medical training.
 
-
+Articles on Camostat and Bromhexine hydrocloride in regards to Covid 19
 
 ### Repurposing host-based therapeutics to control coronavirus and influenza virus
 
@@ -19,3 +19,11 @@ Articles on Camostat and Bromhexine hydrocloride Bisolvon in regards to Covid 19
 ### The Impact of Camostat Mesilate on COVID-19 Infection (CamoCO-19)
 
 <https://clinicaltrials.gov/ct2/show/NCT04321096>
+
+### COVID-19 Registered Trials – and analysis
+
+[https://www.cebm.net/covid-19/registered-trials-and-analysis/](<COVID-19 Registered Trials – and analysis>)
+
+### A reappraisal of the mucoactive activityand clinical efficacy of bromhexine
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359817/pdf/40248_2017_Article_88.pdf
