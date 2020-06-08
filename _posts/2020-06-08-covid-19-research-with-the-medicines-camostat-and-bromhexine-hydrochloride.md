@@ -26,4 +26,4 @@ Articles on Camostat and Bromhexine hydrocloride in regards to Covid 19
 
 ### A reappraisal of the mucoactive activityand clinical efficacy of bromhexine
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359817/pdf/40248_2017_Article_88.pdf
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359817/pdf/40248_2017_Article_88.pdf>
