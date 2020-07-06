@@ -6,38 +6,21 @@ thumbnail: /assets/uploads/2006-02-13_drop-impact.jpg
 ---
 Analyzing chemical compounds 
 
-* Camostat C20 H20 N4 O4 CID 2536
-
-
-
-* Namfamostat C19 H17 N5 O2 CID 4413
-
-
-
 * Guanidinobenzoic Acid C8 H9 N3 O2 CID 159772, 
 
   "Harmful if swallowed \[Warning Acute toxicity, oral]"
 
   <https://pubchem.ncbi.nlm.nih.gov/compound/159772>
-
-
-
 * Tranexamic Acid C8 H15 NO2, It is a synthetic derivative of the Amino Acid Lysine. 
 
 <https://pubchem.ncbi.nlm.nih.gov/compound/5526>
 
-
-
 Cyklokapron, 
-
-
 
 * Lysine C6 H14 N2 O2
 
 <!---->
 
 * Arganine
-
-
-
 * Ibuprofen C13 H18 O2
+* Benzocaine "Ethyl easter of 4-aminobenzoic acid" C9H11NO2
