@@ -13,9 +13,6 @@ Analyzing chemical compounds
 Cyklokapron, 
 
 * Lysine C6 H14 N2 O2
-
-<!---->
-
 * Arganine C6 H14 N4 O2
 * Ibuprofen C13 H18 O2
 * Benzocaine "Ethyl easter of 4-aminobenzoic acid" C9H11NO2
