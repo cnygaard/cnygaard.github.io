@@ -6,12 +6,6 @@ thumbnail: /assets/uploads/2006-02-13_drop-impact.jpg
 ---
 Analyzing chemical compounds 
 
-* Tranexamic Acid C8 H15 NO2, It is a synthetic derivative of the Amino Acid Lysine. 
-
-<https://pubchem.ncbi.nlm.nih.gov/compound/5526>
-
-Cyklokapron, 
-
 * Lysine C6 H14 N2 O2
 * Arganine C6 H14 N4 O2
 * Ibuprofen C13 H18 O2
