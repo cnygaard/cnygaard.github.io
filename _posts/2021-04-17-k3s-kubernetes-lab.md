@@ -44,3 +44,49 @@ k3s-default   1/1       0/0      true
 ```
 sudo cp /root/.kube/config .kube/config
 ```
+### Install Linkerd CLI ###
+
+```
+wget -nd https://github.com/linkerd/linkerd2/releases/download/stable-2.10.1/linkerd2-cli-stable-2.10.1-linux-amd64
+```
+
+Make linkerd executable
+
+```
+chmod 755 linkerd2-cli-stable-2.10.1-linux-amd64
+```
+
+Move linkerd to /usr/local/bin to be in search path $PATH
+
+```
+sudo mv linkerd2-cli-stable-2.10.1-linux-amd64 /usr/local/bin/linkerd
+```
+
+### Validate Kubernetes cluster for Linkerd ###
+
+```
+linkerd check --pre
+```
+
+### Install Linkerd control plane ###
+
+```
+linkerd install | kubectl apply -f -
+```
+
+### Check that Linkerd is installed correctly
+```
+linkerd check
+```
+
+### Install Linkerd Viz extension ###
+
+```
+linkerd viz install | kubectl apply -f - # on-cluster metrics stack
+```
+
+### Install Linkerd optional components ###
+```
+linkerd jaeger install | kubectl apply -f - # Jaeger collector and UI
+linkerd multicluster install | kubectl apply -f - # multi-cluster components
+```
