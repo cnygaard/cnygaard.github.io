@@ -26,7 +26,7 @@ Install Multipass via snap install
 
 ### How do you setup SSH keys for SSH into multipass machines? ###
 
-Create a cloud-init.yaml file. Paste your ssh key on the first - line.
+Create a cloud-init.yaml file. Paste your public ssh key from ~/.ssh/id_rsa.pub on the first ssh_authorized_keys - line in the cloud-init.file.
 
 cloud-init.yaml
 ```
