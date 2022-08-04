@@ -32,4 +32,4 @@ The altered value will have the effect that it will be much harder for venture c
 
 Since many startups are running on red numbers and will find it harder to finance operations through new rounds of finance. Startups will have to cut costs for example by lowering staff count. However lowering staff count will in many instances not be enough to turn the business models from red numbers to profit black numbers. Remember that the discounted cost of capital was wrong. Thus any startup that need to finance any capital goods in order to run their operations will have their valuations wrong. Even if the startup is doing pure services it will still effect future earning calculations.
 
-The market multiple will be affected since future discounted cash flow with over interest parameters will effect  discounted cash flow which will change valuation will will change market multiples.
+The startup market multiple value will be affected since future discounted cash flow with other higher interest parameters will effect  discounted cash flow which will change market valuation. The primary parameter is Discounted cash flow but the secondary parameter is market multiple.
