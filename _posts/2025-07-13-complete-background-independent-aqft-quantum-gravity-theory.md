@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "# Complete Background-Independent AQFT Quantum Gravity Theory"
+title: Complete Background-Independent AQFT Quantum Gravity Theory
 date: 2025-07-13T19:39:30.581Z
 thumbnail: https://en.m.wikipedia.org/wiki/Quantum_gravity#/media/File%3ACube_of_theoretical_physics.svg
 ---
