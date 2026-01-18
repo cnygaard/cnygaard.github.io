@@ -19,6 +19,4 @@ Keywords: quantum gravity, Fisher information, loop quantum gravity, emergent s
 \
 Link to zenodo with the research paper:
 
-<https://zenodo.org/records/18216384>
-
-[](https://zenodo.org/records/18216384)
+[](https://zenodo.org/records/18216384)https://zenodo.org/records/18293511
