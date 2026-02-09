@@ -18,3 +18,8 @@ The coherence length σ(r) is *derived* from the spatial Quantum Fisher Inform
 Link to Zenodo with PDF
 
 <https://zenodo.org/records/18524388>
+
+[](https://zenodo.org/records/18524388)\
+Quantum gravity simulator written in Python simulating the physics in the paper. Simulation of Black holes and Cosmology.
+
+<https://github.com/cnygaard/quantum_gravity>
